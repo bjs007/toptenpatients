@@ -3,6 +3,7 @@
  * @module toptenpatients
  */
 var fs = require('fs');
+Var x = 4;
 var geolib = require('geolib');
 var max = 0;
 var min = 0;
